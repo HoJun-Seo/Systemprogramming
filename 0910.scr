@@ -1,0 +1,14 @@
+Script started on 2019-09-10 11:09:56+0900
+]0;system@DESKTOP-RR98L9H: ~/sp/0910[01;32msystem@DESKTOP-RR98L9H[00m:[01;34m~/sp/0910[00m$ ls
+0910.scr
+]0;system@DESKTOP-RR98L9H: ~/sp/0910[01;32msystem@DESKTOP-RR98L9H[00m:[01;34m~/sp/0910[00m$ time
+
+real	0m0.000s
+user	0m0.000s
+sys	0m0.000s
+]0;system@DESKTOP-RR98L9H: ~/sp/0910[01;32msystem@DESKTOP-RR98L9H[00m:[01;34m~/sp/0910[00m$ date
+Tue Sep 10 11:10:02 KST 2019
+]0;system@DESKTOP-RR98L9H: ~/sp/0910[01;32msystem@DESKTOP-RR98L9H[00m:[01;34m~/sp/0910[00m$ exit
+exit
+
+Script done on 2019-09-10 11:10:07+0900

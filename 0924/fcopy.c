@@ -8,7 +8,7 @@ int main(int argc, char *argv[])
 {
     int fd1, fd2, n;
     char buf[BUFSIZE];
-    if(argc != -3){
+    if(argc != 3){
         fprintf(stderr, "사용법 : %s file1 file2\n", argv[0]);
 
     exit(1);

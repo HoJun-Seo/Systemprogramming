@@ -6,7 +6,7 @@
 /*학번을 입력받아 해당 레코드를 삭제한다.*/
 int main(int argc, char *argv[])
 {
-	int fd, id, fp;
+	int fd, id;
 	char c;
 	struct student record;
 	if(argc < 2){

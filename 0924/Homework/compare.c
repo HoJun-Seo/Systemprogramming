@@ -9,8 +9,6 @@ int main(int argc, char *argv[])
 	FILE * fd1;
 	FILE * fd2;
 	int number = 0, flag = 1;
-	char buf[BUFSIZ];
-	ssize_t nread;
 
 	if(argc != 3){
 		fprintf(stderr, "사용법 : %s filename1, filname2\n", argv[0]);
